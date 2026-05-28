@@ -7,11 +7,9 @@
 </p>
 
 
-# 👋 Hi, I'm Óscar Díaz Valero Castro
-
 ![](https://komarev.com/ghpvc/?username=oscardvc1-ai&color=blue)
 
-## 💻 Full Stack Developer
+
 
 Full Stack Developer focused on building modern, clean and scalable web applications.
 
