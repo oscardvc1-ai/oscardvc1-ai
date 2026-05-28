@@ -50,6 +50,13 @@ Continue growing as a Full Stack Developer by building scalable and maintainable
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oscardvc1-ai&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oscardvc1-ai&theme=tokyonight" />
+</p>
+
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscardvc1-ai&show_icons=true&theme=tokyonight"/>
 
