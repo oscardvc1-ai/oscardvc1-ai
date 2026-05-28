@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Óscar Díaz Valero Castro</h1>
 
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | React • Angular • Node.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oscardvc1-ai&color=blue" />
 </p>
 
+---
 
-![](https://komarev.com/ghpvc/?username=oscardvc1-ai&color=blue)
-
-
+## 💻 About Me
 
 Full Stack Developer focused on building modern, clean and scalable web applications.
 
@@ -20,12 +19,17 @@ I work with frontend and backend technologies using good development practices, 
 ## 🚀 Tech Stack
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,git,github,vscode,npm" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,git,github,vscode,npm" />
 </p>
 
+---
+
 ## 📌 Featured Projects
+
+* 🚀 Portfolio Website
+* ⚛️ React Task Manager
+* 🅰️ Angular Dashboard
+* 🔧 REST API with Node.js
 
 Currently building professional projects to showcase my Full Stack development skills.
 
@@ -42,9 +46,12 @@ Continue growing as a Full Stack Developer by building scalable and maintainable
 * GitHub: https://github.com/oscardvc1-ai
 * Email: [oscardvc1@gmail.com](mailto:oscardvc1@gmail.com)
 
-* ---
+---
 
 ## 📊 GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscardvc1-ai&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscardvc1-ai&layout=compact&theme=tokyonight"/>
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscardvc1-ai&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscardvc1-ai&layout=compact&theme=tokyonight"/>
+</p>
