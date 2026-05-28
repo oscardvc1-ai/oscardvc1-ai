@@ -1,4 +1,15 @@
+<h1 align="center">Hi 👋, I'm Óscar Díaz Valero Castro</h1>
+
+<h3 align="center">Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oscardvc1-ai&color=blue" />
+</p>
+
+
 # 👋 Hi, I'm Óscar Díaz Valero Castro
+
+![](https://komarev.com/ghpvc/?username=oscardvc1-ai&color=blue)
 
 ## 💻 Full Stack Developer
 
@@ -10,31 +21,11 @@ I work with frontend and backend technologies using good development practices, 
 
 ## 🚀 Tech Stack
 
-### Frontend
+<p align="left">
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React
-* Angular
-* RxJS
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,git,github,vscode,npm" />
 
-### Backend
-
-* Node.js
-* Express
-* REST APIs
-* SQL
-
-### Tools
-
-* Git
-* GitHub
-* Visual Studio Code
-* npm
-
----
+</p>
 
 ## 📌 Featured Projects
 
@@ -52,3 +43,11 @@ Continue growing as a Full Stack Developer by building scalable and maintainable
 
 * GitHub: https://github.com/oscardvc1-ai
 * Email: [oscardvc1@gmail.com](mailto:oscardvc1@gmail.com)
+
+* ---
+
+## 📊 GitHub Stats
+
+![Oscar GitHub stats](https://github-readme-stats.vercel.app/api?username=oscardvc1-ai&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscardvc1-ai&layout=compact&theme=tokyonight)
