@@ -45,7 +45,6 @@ Continue growing as a Full Stack Developer by building scalable and maintainable
 * ---
 
 ## 📊 GitHub Stats
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscardvc1-ai&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscardvc1-ai&layout=compact&theme=tokyonight"/>
