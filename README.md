@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Óscar Díaz Valero Castro
 
-<!--
-**oscardvc1-ai/oscardvc1-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer
 
-Here are some ideas to get you started:
+Full Stack Developer focused on building modern, clean and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with frontend and backend technologies using good development practices, version control with Git and structured project organization on GitHub.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
+* Angular
+* RxJS
+
+### Backend
+
+* Node.js
+* Express
+* REST APIs
+* SQL
+
+### Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+* npm
+
+---
+
+## 📌 Featured Projects
+
+Currently building professional projects to showcase my Full Stack development skills.
+
+---
+
+## 🎯 Professional Goal
+
+Continue growing as a Full Stack Developer by building scalable and maintainable applications while improving frontend and backend architecture skills.
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/oscardvc1-ai
+* Email: [oscardvc1@gmail.com](mailto:oscardvc1@gmail.com)
