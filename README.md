@@ -26,14 +26,25 @@ I work with frontend and backend technologies using good development practices, 
 
 ## 📌 Featured Projects
 
-* 🚀 Portfolio Website
-* ⚛️ React Task Manager
-* 🅰️ Angular Dashboard
-* 🔧 REST API with Node.js
+### 🚀 Portfolio Website
 
-Currently building professional projects to showcase my Full Stack development skills.
+Personal portfolio built with HTML, CSS and JavaScript.
 
----
+- Live Demo: https://oscardvc1-ai.github.io/portfolio-website/
+- Repository: https://github.com/oscardvc1-ai/portfolio-website
+
+### ⚛️ React Task Manager
+
+Task management application built with React, Hooks, LocalStorage and responsive design.
+
+- Live Demo: https://react-task-manager-phi-two.vercel.app/
+- Repository: https://github.com/oscardvc1-ai/react-task-manager
+
+### 🔧 Task Manager REST API
+
+REST API built with Node.js, Express, MongoDB Atlas and Mongoose.
+
+- Repository: https://github.com/oscardvc1-ai/task-manager-api
 
 ## 🎯 Professional Goal
 
